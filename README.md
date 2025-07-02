@@ -9,7 +9,6 @@
 
 ### 📌 Hakkımda
 
-- 🎓 Meslek Lisesi Bilişim Teknolojileri öğrencisi
 - 🐍 Python'a yeni başladım
 - 🌍 Hayalim: Almanya'da çalışmak
 - 💡 Her gün yeni bir şey öğrenmeye çalışıyorum
@@ -34,5 +33,6 @@
 ---
 
 <p align="center">
-  <strong>✨ Hayallerine roket gibi uç, çünkü sınır gökyüzü! 🚀</strong>
+  <strong>✨ "Tasarım bir detay değildir; detay, tasarımın ta kendisidir."
+— Charles Eames</strong>
 </p>
