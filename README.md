@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Onur İşlak</h1>
+<h1 align="center">🚀 Onur </h1>
 
 <p align="center">
   Merhaba! Ben Onur. Yazılım dünyasında kendimi geliştiriyorum ve hedefim: <strong>Bilgisayar Mühendisi</strong> olmak 💻<br>
