@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center">Selam 👋, Ben [Onur]</h1>
+<h3 align="center">Türkiye'den yazılım geliştirme yolculuğuna yeni başlayan biriyim</h3>
 
-<!--
-**onurixdd/onurixdd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🚀 Şu anda **Python**, **HTML**, **CSS** öğreniyorum  
+- 🎯 Hedefim: Yazılım geliştirici olup yurt dışında çalışmak  
+- 💡 Küçük projeler yaparak öğrenmeyi seviyorum  
+- 🧠 Sürekli yeni şeyler öğrenmeye çalışıyorum  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=onurixdd&show_icons=true&locale=tr&layout=compact" alt="onurixdd" />
+</p>
