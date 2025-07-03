@@ -12,7 +12,6 @@
 - 🐍 Python'a yeni başladım
 - 🌍 Hayalim: Almanya'da çalışmak
 - 💡 Her gün yeni bir şey öğrenmeye çalışıyorum
-- ✨ "Pes etmeyen kazanır" felsefesiyle ilerliyorum
 
 ---
 
