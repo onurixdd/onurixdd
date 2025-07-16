@@ -17,7 +17,7 @@
 ### 🛠️ Öğrendiğim Teknolojiler
 
 - **Python** 🐍
-- **CSS** 🎨 (başlangıç)
+- **C++** 🎨 (başlangıç)
 - **Git & GitHub** 🌐
 
 ---
